@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+I'm a student at Leeds Beckett University studying Computer Science currently in my first year!
 <!--
 **TurnerCharles/TurnerCharles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
